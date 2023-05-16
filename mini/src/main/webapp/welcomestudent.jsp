@@ -37,7 +37,7 @@ try{
           String imageName = rs.getString("studentID") + ".jpg";
 
           // Check if the image exists
-          boolean imageExists = new File("C:/Users/iamta/git/mini/mini/src/main/webapp/" + imageName).exists();
+          boolean imageExists = new File("C:/Users/iamta/git/iamta/mini/src/main/webapp/" + imageName).exists();
 
           // If the image exists, display it
           if(imageExists){
