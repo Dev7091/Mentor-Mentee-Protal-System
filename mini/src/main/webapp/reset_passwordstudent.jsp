@@ -70,3 +70,4 @@ if (studentID != null && key != null && new_password != null && confirm_password
 </body>
 </html>
 
+  

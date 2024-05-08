@@ -7,4 +7,4 @@
     <p>Your Official Email is <%= session.getAttribute("email") %></p>
     <p>Your student ID is <%= session.getAttribute("studentID") %></p>
   </div>
-</div>
+</div>  

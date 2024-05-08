@@ -127,4 +127,4 @@
 	<img class=img2 src="side.jpg" height="100%" width="100%">
 </div>
 </body>
-</html>
+</html>  

@@ -211,7 +211,7 @@
       
       <td><input type="text" name="external_marks" required></td>
       <td><input type="text" name="internal_marks" required></td>
-      <td><input type="text" name="total_marks" required></td>
+      <td><input type="text" name="total_marks" required></td>  
     </tr>
     </table>
     <table>

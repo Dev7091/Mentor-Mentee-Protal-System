@@ -67,4 +67,4 @@ conn = DriverManager.getConnection("jdbc:mysql://localhost/lab_app", "root", "ro
 <body>
 	<a href="mentorLogin.jsp">Back to Login Page</a>
 </body>
-</html>
+</html>  

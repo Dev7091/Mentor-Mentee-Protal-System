@@ -9,4 +9,4 @@
 <body>
 <h1>Your Notifications will be displayed here!</h1>
 </body>
-</html>
+</html>  

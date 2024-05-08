@@ -28,7 +28,7 @@
 
   // redirect to confirmation page
   response.sendRedirect("notificationSent.jsp");
-%>
+%>  
 
 </body>
 </html>
