@@ -43,7 +43,3 @@ Below are some screenshots of the Mentor-Mentee Portal System:
 
 - [Tatwadarshi](https://github.com/Dev7091)
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
